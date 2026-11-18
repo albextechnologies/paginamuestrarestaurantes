@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bd8760"/><stop offset="1" stop-color="#513f2e"/></linearGradient><radialGradient id="plate"><stop stop-color="#f3e2bc"/><stop offset=".75" stop-color="#e2cc9f"/><stop offset="1" stop-color="#b59a73"/></radialGradient><filter id="shadow"><feGaussianBlur stdDeviation="32"/></filter><pattern id="dots" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M2 2h2v2H2z" fill="#fbe0b8" opacity=".16"/></pattern></defs>
+<rect width="1200" height="1500" fill="url(#b)"/><rect width="1200" height="1500" fill="url(#dots)"/>
+<g transform="rotate(-12 550 680)"><ellipse cx="570" cy="690" rx="490" ry="510" fill="#171b17" opacity=".43" filter="url(#shadow)"/><ellipse cx="560" cy="670" rx="490" ry="510" fill="url(#plate)"/><ellipse cx="560" cy="670" rx="435" ry="458" fill="none" stroke="#e8d8b6" stroke-width="12"/><ellipse cx="560" cy="670" rx="360" ry="375" fill="#966036"/><ellipse cx="560" cy="670" rx="344" ry="359" fill="#ca944c"/>
+<path d="M275 650Q350 420 580 440T844 680Q775 945 570 990T275 650" fill="#e2ba69" stroke="#754b30" stroke-width="12"/>
+<g fill="#6f2f27"><ellipse cx="425" cy="580" rx="88" ry="56"/><ellipse cx="650" cy="800" rx="120" ry="60"/><ellipse cx="695" cy="540" rx="82" ry="50"/><ellipse cx="450" cy="840" rx="80" ry="55"/></g>
+<g fill="#37503a"><path d="M400 750q-110-130 30-190t50 140z"/><path d="M630 640q-50-150 110-135t20 155z"/><path d="M525 905q-95-180 70-160t-20 170z"/><path d="M275 690q-20-95 100-110t-18 122z"/></g>
+<g fill="#ebdfc5"><ellipse cx="550" cy="600" rx="78" ry="26" transform="rotate(22 550 600)"/><ellipse cx="720" cy="720" rx="80" ry="27" transform="rotate(-32 720 720)"/><ellipse cx="380" cy="820" rx="73" ry="23"/></g>
+<g fill="#d95835"><circle cx="570" cy="782" r="29"/><circle cx="735" cy="625" r="23"/><circle cx="356" cy="680" r="25"/><circle cx="490" cy="480" r="20"/></g></g>
+<g font-family="Georgia,serif" text-anchor="middle" fill="#fff1d5"><text x="600" y="1335" font-size="57" font-style="italic" letter-spacing="3">El sabor de Oaxaca</text><text x="600" y="1391" font-size="19" font-family="Arial,sans-serif" letter-spacing="6">FOTOGRAFÍA DE EJEMPLO</text></g>
+</svg>
